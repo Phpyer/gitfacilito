@@ -68,6 +68,8 @@ h1{
 	margin: 5px 0 10px 0;
 	text-transform: uppercase;
 	letter-spacing: 5px;
+	color: #14099E;
+	text-shadow: 2px 2px 5px white;
 }
 
 .infoContent .block{
